@@ -1,0 +1,6 @@
+hello
+end of file
+
+ echo hello > appendEOF
+ echo end of file >> appendEOF
+
